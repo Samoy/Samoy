@@ -6,7 +6,7 @@
 ![flutter](https://img.shields.io/badge/flutter-02569B?logo=flutter&style=for-the-badge&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?logo=html5&style=for-the-badge&logoColor=FFFFFF)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=FFFFFF)
-![typescript](https://img.shields.io/badge/typescipt-007ACC?logo=typescipt&style=for-the-badge&logoColor=FFFFFF)
+![typescript](https://img.shields.io/badge/typescript-007ACC?logo=typescript&style=for-the-badge&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/react-61DAFB?logo=react&style=for-the-badge&logoColor=FFFFFF)
 ![vue](https://img.shields.io/badge/vue-FC08D?logo=vue.js&style=for-the-badge&logoColor=FFFFFF)
 ![java](https://img.shields.io/badge/java-007396?logo=java&style=for-the-badge&logoColor=FFFFFF)
