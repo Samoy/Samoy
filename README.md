@@ -1,4 +1,5 @@
 ## Skills
+![cplusplus](https://img.shields.io/badge/c%2Fc%2B%2B-512BD4?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
 ![Android](https://img.shields.io/badge/Andrid-3DDC84?logo=android&style=for-the-badge&logoColor=FFFFFF)
 ![iOS](https://img.shields.io/badge/ios-000000?logo=apple&style=for-the-badge&logoColor=FFFFFF)
 ![kotlin](https://img.shields.io/badge/kotlin-0095D5?logo=kotlin&style=for-the-badge&logoColor=FFFFFF)
