@@ -18,5 +18,5 @@
 ## Stats
 ![Samoy's github stats](https://github-readme-stats.vercel.app/api?username=Samoy&show_icons=true&theme=radical)
 ## Contact Me
-Email:<samoy_young@163.com>  
-Website:<https://www.samoy.fun>
+Email:<samoy_young@163.com>
+Website:<https://www.samoy.site>
